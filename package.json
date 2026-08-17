@@ -1,0 +1,27 @@
+{
+  "name": "fifty-shades-of-purple-theme",
+  "displayName": "Fifty Shades of Purple",
+  "description": "A monochrome purple VS Code dark theme \u2014 every syntax colour is a shade of purple.",
+  "version": "1.0.0",
+  "publisher": "local",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.33.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NLykoskoufis/fifty-shades-of-purple-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fifty Shades of Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fifty-shades-of-purple-color-theme.json"
+      }
+    ]
+  }
+}
