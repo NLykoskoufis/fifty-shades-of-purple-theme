@@ -31,6 +31,12 @@ purple never hides a problem.
 Backgrounds sit just above pure black, and borders are real colours rather
 than black-on-black, so panel edges, hover and selection stay visible.
 
+## Light variant
+
+The extension also ships **Fifty Lighter Shades of Purple** — the same
+monochrome idea on white. Diagnostics are derived darker than the source
+palette's, which was designed for a phone, not an editor.
+
 ## Install
 
 Download the prebuilt `.vsix` from the [latest release](https://github.com/NLykoskoufis/fifty-shades-of-purple-theme/releases/latest), then either:
